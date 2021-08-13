@@ -1,2 +1,4 @@
 # Valorant-Sniper-Hack
-An undetactable trigger hack for Valorant
+An undetactable trigger hack for Valorant.
+
+Why is it undetacable?
